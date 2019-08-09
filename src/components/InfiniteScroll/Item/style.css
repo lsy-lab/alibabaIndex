@@ -1,0 +1,38 @@
+.item-div a:hover {
+  text-decoration: underline;
+  color: #2db7f5;
+}
+
+.item-a {
+  text-decoration: none;
+  color: #666;
+}
+.name{
+  color: #3c99d8;
+  font-size: 14px;
+}
+.time{
+  font-style: normal;
+  font-size: 14px;
+  width: 70px;
+  text-align: right;
+  float: right;
+  color: rgba(31,56,88,.6)
+}
+.city{
+  float: right;
+  font-style: normal;
+  color: rgba(0,0,0,.6);
+  width: 202px;
+  margin-right: 70px;
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.li{
+  overflow: hidden;
+  padding: 0 14px;
+  line-height: 50px;
+}
