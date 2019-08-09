@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aliIndex/static/css/main.5db8e707.chunk.css",
+    "main.js": "/aliIndex/static/js/main.45471d07.chunk.js",
+    "main.js.map": "/aliIndex/static/js/main.45471d07.chunk.js.map",
+    "runtime~main.js": "/aliIndex/static/js/runtime~main.41da8910.js",
+    "runtime~main.js.map": "/aliIndex/static/js/runtime~main.41da8910.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/aliIndex/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/aliIndex/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/aliIndex/index.html",
+    "precache-manifest.53fba35bd17a4de6b25813ce24d2db61.js": "/aliIndex/precache-manifest.53fba35bd17a4de6b25813ce24d2db61.js",
+    "service-worker.js": "/aliIndex/service-worker.js",
+    "static/css/main.5db8e707.chunk.css.map": "/aliIndex/static/css/main.5db8e707.chunk.css.map"
+  }
+}
